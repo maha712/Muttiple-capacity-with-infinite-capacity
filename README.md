@@ -30,6 +30,7 @@ EXPERIMENT
 
 
 ## Program
+```
 
 import math
 
@@ -92,7 +93,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
     
 print("--------------------------------------------------------------")
-
+```
 ## Output :
 
 ![Screenshot (331)](https://github.com/maha712/Muttiple-capacity-with-infinite-capacity/assets/121156360/97363596-e55f-4a31-ba08-9d9f0e2561fd)
